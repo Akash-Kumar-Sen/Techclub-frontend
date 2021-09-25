@@ -4,7 +4,6 @@ import CardContent from "@material-ui/core/CardContent"
 import CardMedia from "@material-ui/core/CardMedia"
 import Typography from "@material-ui/core/Typography"
 import { Button, CardActionArea, CardActions } from "@material-ui/core"
-import { Link } from "react-router"
 import "./cards.css"
 //individual card components
 export default function MultiActionAreaCard(props) {
